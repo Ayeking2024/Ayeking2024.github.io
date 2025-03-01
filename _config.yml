@@ -103,5 +103,7 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:Ayeking2024/Ayeking2024.github.io
-  branch: master
+  branch: main
+  
+  
 
